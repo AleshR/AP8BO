@@ -7,11 +7,13 @@ Projekt do bezpečnosti operacnich systemu
 2. Seminarka - Power analysis of embedded microcontrolers
 3. Vyzkum - promyslet si to
 
-## Power analysis
+## Power analysis && HackRF EMI side-channel attack
 
 Udělat analýzu samotných systémů a patternů jejich odběrů.
 Pravděpodobně se nevyhnu ani under-voltage core dumpu, takze to bude chtit programovatelny zdroj.
 Podivat se na moznosti logovani na mojem **VOLTCRAFT DSO-1254-E**
+
+Možná je cesta vyzkoušet RF side channel attack a použit něco ze SRCs ohledně strojoveho uceni a TensorFlow -- uvidime
 
 ## SRCs
 1. [SDR as Side Channel Attack Platform (eh17)](https://www.youtube.com/watch?v=JftX-fQvXD0)
