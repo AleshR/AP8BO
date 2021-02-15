@@ -13,7 +13,7 @@ Udělat analýzu samotných systémů a patternů jejich odběrů.
 Pravděpodobně se nevyhnu ani under-voltage core dumpu, takze to bude chtit programovatelny zdroj.
 Podivat se na moznosti logovani na mojem **VOLTCRAFT DSO-1254-E**
 
-##SRCs
+## SRCs
 1. [SDR as Side Channel Attack Platform (eh17)](https://www.youtube.com/watch?v=JftX-fQvXD0)
 2. [Kraken Identifies Critical Flaw in Trezor Hardware Wallets](https://www.youtube.com/watch?v=6pKuHYwrGkU)
 3. [Side Channel Attack | Breaking RSA | Power Analysis](https://www.youtube.com/watch?v=rZ0nI8NSrhM)
