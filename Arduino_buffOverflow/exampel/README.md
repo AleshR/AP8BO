@@ -13,7 +13,12 @@ jsem schopný dumpovat věci z paměti pomocí terminálu.
 _Nemazal jsem paměť, takže to zvrací ještě věci, co tam zůstaly ze starých pokusů (proto sekvence hello!!!!!)_
 
 ![Po startu programu](assets/img1.png)
+***Po startu programu a vložení legitimního usera***
+
+
 ![Po injektování ! za string](assets/img2.png)
+***Po vložení injekce za pomocí !, který má za následek "vyzvracení" bufferu***
+
 
 ### Proč se to děje?
 V programu máme funkci **process\_secret_data**, tato funkce v našem příkladu zprostředkovává nějakou tajnou informaci. Zpravidla v ní může být uložený nějaký pass string, nebo tak něco.
